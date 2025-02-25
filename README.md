@@ -1,2 +1,2 @@
 # Projeto
-Projeto final da capacitação em sistemas 
+Projeto final da capacitação em Sistemas Embarcados oferecido pela Embarcatech
