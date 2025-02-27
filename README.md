@@ -1,6 +1,6 @@
 # Instruções de uso
 
-# Alerta Verde – Sistema de Monitoramento de Solo e Luminosidade
+# Alerta Verde: Sistema Inteligente de Monitoramento e Alerta para Cuidado de Plantas com a BitDogLab 
 
 ### Autora: Rayane Queiroz dos Santos Passos
 
