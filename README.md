@@ -11,7 +11,7 @@ Este programa monitora a umidade do solo e o nível de luminosidade, exibindo os
 ### Requisitos
 
 - Hardware
-- Raspberry Pi Pico W
+- Placa BitDogLab
 - Display OLED SSD1306 (I2C)
 - LEDs (vermelho, azul e verde)
 - Buzzer
