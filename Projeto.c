@@ -116,7 +116,7 @@ int main() {
         // Atualiza o display com os valores e o status
         update_display(simulated_soil_moisture, simulated_light_level, status);
 
-        // Pausa de 5 segundos antes da próxima leitura
+        // Pausa de 8 segundos antes da próxima leitura
         sleep_ms(8000);
     }
 }
