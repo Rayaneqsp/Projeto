@@ -1,6 +1,6 @@
 
 Instruções de uso
-Alerta e – Sistema de Monitoramento de Solo e Luminosidade
+Alerta Verde – Sistema de Monitoramento de Solo e Luminosidade
 
 Autora: Rayane Queiroz dos Santos Passos
 
