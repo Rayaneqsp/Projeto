@@ -13,7 +13,7 @@ Este programa monitora a umidade do solo e o nível de luminosidade, exibindo os
 - Display OLED SSD1306 (I2C)
 - LED RGB
 - Buzzer
-- 
+
 ## Conexões
 
 Instalação e Execução
