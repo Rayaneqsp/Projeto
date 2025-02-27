@@ -13,7 +13,7 @@ Este programa monitora a umidade do solo e o nível de luminosidade, exibindo os
 - Hardware
 - Placa BitDogLab
 - Display OLED SSD1306 (I2C)
-- LEDs (vermelho, azul e verde)
+- LED RGB
 - Buzzer
 - Fios e resistores apropriados
 
